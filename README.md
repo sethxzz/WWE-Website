@@ -1,15 +1,22 @@
 
-WWE-Website
-Este é um site experimental sobre a WWE, criado com o objetivo de testar e aprender algumas funcionalidades do CSS.
+# WWE-Website
 
-Sobre o projeto
-Projeto feito para estudo e prática.
+## 🏆 Sobre o Projeto
 
-Focado em experimentar efeitos e estilos usando CSS.
+Este é um site experimental sobre a **WWE**, criado com o objetivo de testar e aprender algumas funcionalidades do **CSS**.
 
-Não é um site oficial ou completo, apenas um exercício.
+- Projeto feito para estudo e prática.
+- Focado em experimentar efeitos e estilos usando CSS.
+- Não é um site oficial ou completo, apenas um exercício.
 
-Tecnologias usadas
-HTML
+---
 
-CSS
+## 🛠️ Tecnologias Utilizadas
+
+- HTML  
+- CSS  
+
+---
+
+
+
