@@ -14,7 +14,8 @@ Este é um site experimental sobre a **WWE**, criado com o objetivo de testar e 
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML  
-- CSS  
+- CSS
+- JavaScript
 
 ---
 
